@@ -7,4 +7,6 @@
 - Rất mong các bạn tự tìm hiểu và fix các lỗi gặp phải.
 - Nguồn: Arriety. Nghiêm cấm việc bán lại dưới mọi hình thức.
 
-![Ảnh mẫu](assets/Screenshot 2024-11-05 151350.png)
+
+![Ảnh mẫu](assets/anh.png)
+
